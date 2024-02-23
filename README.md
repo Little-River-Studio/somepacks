@@ -8,7 +8,7 @@ $ cd Python-3.11.8.zip
 $ sudo make install
 ```
 
-
+> 注意：Python编译好的源代码请查看release
 
 ### ultralytics
 
