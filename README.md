@@ -76,7 +76,7 @@ $ sudo make install
 - 剩余的依赖还有`pyyaml`、`requests`、`tqdm`、`psutil`、`py-cpuinfo`、`thop`、`seaborn`，可以在安装`ultralytics`时交由`pip`进行安装。
 - 以下为`ultralytics`的依赖图
 
-![ultralytics依赖图](.\img\ultralytics.png)
+![ultralytics依赖图](img/ultralytics.png)
 
 ##### 导入问题
 
